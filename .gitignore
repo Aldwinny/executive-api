@@ -1,9 +1,6 @@
-# Files and directories created by pub.
-.dart_tool/
-.packages
-
-# Conventional directory for build output.
-build/
+# Python stuff
+__pycache__
+bin/*
 
 # Personal
 todo.md
