@@ -1,3 +1,3 @@
 @ECHO off
-py -X pycache_prefix=bin lib/main.py
-@REM py lib/main.py
+if not exist ".\bin" mkdir .\bin
+py -X pycache_prefix=bin -m lib.main hello world

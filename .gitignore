@@ -1,6 +1,9 @@
-# Python stuff
+# Program output
 __pycache__
-bin/*
+bin
+
+# database
+db/*
 
 # Personal
 todo.md
