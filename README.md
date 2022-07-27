@@ -4,24 +4,27 @@ Executive API is an API that allows file modification as well as script executio
 
 # Features I look forward to coding
 
-* User management
-	1. Guest account
-	2. CRUD & Database
-	3. Administrator Account & Password Hashing
-	4. Directory Limits
-* File management
-	1. Create and Delete Files
-	2. Read specific files
-	3. Update specific files
-	4. Synchronize files or directories with host computer
-	5. Overwrite synchronized files or directories in host computer
-	6. Hash check
-	7. Upload files from user computer
-* Script management
-	1. Create and Delete scripts
-	2. Run scripts
-	3. I/O with scripts
-	4. State listeners
+- User management
+  1.  Guest account
+  2.  CRUD & Database
+  3.  Administrator Account & Password Hashing
+  4.  Directory Limits
+- File management
+  1.  Create and Delete Files
+  2.  Read specific files
+  3.  Update specific files
+  4.  Synchronize files or directories with host computer
+  5.  Overwrite synchronized files or directories in host computer
+  6.  Hash check
+  7.  Upload files from user computer
+- Networking
+  1.  Separate codes for server and client
+  2.  Send commands through the command line (or make a GUI)
+- Script management
+  1.  Create and Delete scripts
+  2.  Run scripts
+  3.  I/O with scripts
+  4.  State listeners
 
 # Why I made this
 
